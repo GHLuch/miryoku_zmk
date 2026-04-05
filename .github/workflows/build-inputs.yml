@@ -9,7 +9,7 @@ on:
         description: 'board'
         required: true
       shield:
-        description: 'shield'
+        description: 'shield (e.g. totem_peripheral_left or totem_peripheral_right)'
         required: false
         default: 'default'
       alphas:
